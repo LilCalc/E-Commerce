@@ -33,6 +33,10 @@
    The application will be used as the back end for an e-commerce website in order to add, delete, or view important information on products.
    ## Video
    
+
+https://user-images.githubusercontent.com/101202962/174505527-ac831c94-514f-4d9b-9e93-a2b3fc1238d5.mp4
+
+
    ## Features
    Using GET, POST, PUT, and DELETE.
    
